@@ -4,9 +4,9 @@ The simplest possible custom 7-segment display using NeoPixel strip, Arduino UNO
 
 
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/_pNuaVKABN4**
 
-**WOKWI sketch: XXX**
+**WOKWI sketch: https://wokwi.com/projects/399315041436179457**
 
 
 Links from the video:
